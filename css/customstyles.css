@@ -18,7 +18,12 @@ body {
 }
 
 .sectionhead{
-	margin: 20px 0 0 0;
+	margin: 10px 0 0 0;
+}
+.sectionhead .pdf {margin-top:10px;}
+
+.resume h2{
+	
 }
 
 /* Footer Navigation */

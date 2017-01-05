@@ -203,14 +203,14 @@ th {
     text-decoration: underline;
   }
   a[href]:after {
-    content: " (" attr(href) ")";
+    content: none;
   }
   abbr[title]:after {
-    content: " (" attr(title) ")";
+    content: none;
   }
   a[href^="#"]:after,
   a[href^="javascript:"]:after {
-    content: "";
+    content: none;
   }
   pre,
   blockquote {
