@@ -16,6 +16,12 @@ body {
     width: 50%;
     padding-bottom: 25px;
 }
+#logoname {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 #brand {
 	max-width: 60%;
